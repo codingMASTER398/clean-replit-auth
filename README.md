@@ -1,6 +1,8 @@
 # clean-replit-auth
 Cleaner replit authentication wrapper with 300% more options than the default one.
 
+Try it here: https://repl-auth-test.codingmaster398.repl.co/
+
 ## Example
 ```html
 <button id="authButton">Continue with Replit</button>
